@@ -4,7 +4,9 @@
 This sample app accompanies the [Easy HTTP routing with Traefik](#) guide. The application is purposely kept simple to allow the focus to remain on the content of the guide - HTTP routing with Traefik. With Traefik, it is easy to use multiple services to split development tooling or provide additional visualization and troubleshooting tools.
 
 Notice: This sample repo is intended to support the guide mentioned above. As such, the application code is purposely kept simple to keep the focus on the guide's content and should not be considered production ready.
-##
+##How the Application is working
+![image](https://github.com/user-attachments/assets/7e5e8e57-d5b0-46c7-aba8-f45ce8901e3d)
+
 
 
 

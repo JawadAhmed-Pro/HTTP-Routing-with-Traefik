@@ -1,5 +1,5 @@
 # HTTP-Routing-with-Traefik
-# Easy HTTP routing with Traefik
+
 
 This sample app accompanies the [Easy HTTP routing with Traefik](#) guide. The application is purposely kept simple to allow the focus to remain on the content of the guide - HTTP routing with Traefik. With Traefik, it is easy to use multiple services to split development tooling or provide additional visualization and troubleshooting tools.
 

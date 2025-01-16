@@ -11,10 +11,7 @@ Notice: This sample repo is intended to support the guide mentioned above. As su
 
 ![image](https://github.com/user-attachments/assets/7e5e8e57-d5b0-46c7-aba8-f45ce8901e3d)
 
-# 1.In the compose.yaml file, Traefik is using the following configuration:
-Here is an explanation for each part of the provided `docker-compose.yml` file, formatted so that you can copy it into a README file:
 
----
 
 ### Docker Compose Services
 

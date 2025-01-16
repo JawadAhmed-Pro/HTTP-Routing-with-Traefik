@@ -5,6 +5,7 @@ This sample app accompanies the [Easy HTTP routing with Traefik](#) guide. The a
 
 Notice: This sample repo is intended to support the guide mentioned above. As such, the application code is purposely kept simple to keep the focus on the guide's content and should not be considered production ready.
 
+![Screenshot 2025-01-15 200621](https://github.com/user-attachments/assets/657e9870-dfab-4bd1-b633-0f792627cec3)
 
 
 ## Try it out

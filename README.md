@@ -4,16 +4,19 @@
 This sample app accompanies the [Easy HTTP routing with Traefik](#) guide. The application is purposely kept simple to allow the focus to remain on the content of the guide - HTTP routing with Traefik. With Traefik, it is easy to use multiple services to split development tooling or provide additional visualization and troubleshooting tools.
 
 Notice: This sample repo is intended to support the guide mentioned above. As such, the application code is purposely kept simple to keep the focus on the guide's content and should not be considered production ready.
+##
 
-![Screenshot 2025-01-15 200621](https://github.com/user-attachments/assets/657e9870-dfab-4bd1-b633-0f792627cec3)
 
 
 ## Try it out
 
-1. Clone this repo
-2. Run `docker compose up --build`
-3. Open the site at http://localhost. Requests to get data will go to `/api/message`, which is routed to the API service.
-4. Open phpMyAdmin (database visualizer) at http://db.localhost
+1. Clone the Repository using:   `git clone  https://github.com/JawadAhmed-Pro/HTTP-Routing-with-Traefik.git`
+   You will see These files and verfiy that all the files are present.
+![image](https://github.com/user-attachments/assets/1bfac9d8-6c0a-40a8-a75f-8ec2e79df513)
+
+3. Run `docker compose up --build`
+4. Open the site at http://localhost. Requests to get data will go to `/api/message`, which is routed to the API service.
+5. Open phpMyAdmin (database visualizer) at http://db.localhost
 
 When you're done, run `docker compose down` to tear everything down.
 

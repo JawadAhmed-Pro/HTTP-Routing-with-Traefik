@@ -143,9 +143,15 @@ mongo-express:
    You will see These files and verfiy that all the files are present.
 ![image](https://github.com/user-attachments/assets/1bfac9d8-6c0a-40a8-a75f-8ec2e79df513)
 
-3. Run `docker compose up --build`
-4. Open the site at http://localhost. Requests to get data will go to `/api/message`, which is routed to the API service.
-5. Open phpMyAdmin (database visualizer) at http://db.localhost
+2. Run `docker compose up --build`
+   ![Screenshot 2025-01-16 113458](https://github.com/user-attachments/assets/f106a4bc-354f-4078-bbc7-0aee874a07d6)
+
+   
+5. Open the site at http://localhost. Requests to get data will go to `/api/message`, which is routed to the API service.
+   ![Screenshot 2025-01-16 113724](https://github.com/user-attachments/assets/11699a85-44f3-4a6e-90b4-2cebc01db890)
+
+7. Open phpMyAdmin (database visualizer) at http://db.localhost
+   
 
 When you're done, run `docker compose down` to tear everything down.
 
